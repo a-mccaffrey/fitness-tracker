@@ -34,7 +34,7 @@ $ npm install
 
 ### What it should look like
 
-![Screenshot](screenshot.png)
+![Screenshot](./public/assets/screenshot.png)
 
 ## Usage
 
