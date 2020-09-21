@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/a-mccaffrey/covid-doctor-checkup)
+![GitHub](https://img.shields.io/github/license/a-mccaffrey/fitness-tracker)
 
 # fitness-tracker
 
